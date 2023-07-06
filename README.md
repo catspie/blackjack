@@ -17,10 +17,11 @@
 - .empty() 메서드
 
 # 게임 이미지
-![image](https://github.com/catspie/blackjack/assets/102503668/d0349361-3a74-4612-83e0-19b73cdbb2fc)
-![image](https://github.com/catspie/blackjack/assets/102503668/a99c7f13-8212-40db-8dae-32838a868531)
-![image](https://github.com/catspie/blackjack/assets/102503668/c6a1cea3-0c1d-4920-91ff-83daf9757885)
-![image](https://github.com/catspie/blackjack/assets/102503668/628fd310-b344-4920-a8d0-d04765e8da17)
+
+![image](https://github.com/catspie/blackjack/assets/102503668/7eb0b426-324f-445e-932a-0744ca3e9d83)
+![image](https://github.com/catspie/blackjack/assets/102503668/aef886da-ccd8-4bee-a5c5-7be79a4bc00f)
+![image](https://github.com/catspie/blackjack/assets/102503668/f0a18a56-8f9b-4657-a994-0ede853a2731)
+
 
 # 배포 (NETLIFY)
 https://dancing-dolphin-833d9b.netlify.app/
